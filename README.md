@@ -26,5 +26,6 @@ trabalham </li>
 <ul>
   <li>Funções e parâmetros</li>
   <li>Laboratório de lógica</li>
+  <li>Interface com Figma</li>
   <li>Pequeno hackathon</li>
  </ul>
