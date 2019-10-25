@@ -5,6 +5,7 @@ Este repositório tem por objetivo armazenar os exercícios do curso de Desenvol
 ## Lógica de Programação com Javascript
 
 <ul type="square">
+<li><a href="https://github.com/antonialucianapires/recode-pro/blob/master/revisaoLogicaProgramacao.md">Revisão</a></li>
 <li><a href="https://github.com/antonialucianapires/recode-pro/blob/master/appConceitoAluno.js">Conceito do Aluno</a></li>
 <li><a href="https://github.com/antonialucianapires/recode-pro/blob/master/appCalculadora.js">Calculadora Simples</a></li>
 </ul>
