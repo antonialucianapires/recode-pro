@@ -6,15 +6,15 @@ Este repositório tem por objetivo armazenar os exercícios do curso de Desenvol
 
 <ul type="square">
 <li><a href="https://github.com/antonialucianapires/recode-pro/blob/master/revisaoLogicaProgramacao.md">Revisão</a></li>
-<li><a href="https://github.com/antonialucianapires/recode-pro/blob/master/appConceitoAluno.js">Conceito do Aluno</a></li>
-<li><a href="https://github.com/antonialucianapires/recode-pro/blob/master/appCalculadora.js">Calculadora Simples</a></li>
+<li><a href="https://github.com/antonialucianapires/recode-pro/blob/master/L%C3%B3gica%20com%20Javascript/appConceitoAluno.js">Conceito do Aluno</a></li>
+<li><a href="https://github.com/antonialucianapires/recode-pro/blob/master/L%C3%B3gica%20com%20Javascript/appCalculadora.js">Calculadora Simples</a></li>
 </ul>
 
 ## Sessões de HTML5 
  
  <ul type="square">
 <li><a href="https://blog-geekhunter-com-br.cdn.ampproject.org/c/s/blog.geekhunter.com.br/voce-conhece-html-semantico/amp/">Revisão (Você conhece HTML Semântico? por Yona Nantes)</a></li>
-<li><a href="#">Estrutura do HTML5 (sem Flexbox)</a></li>
+<li><a href="https://github.com/antonialucianapires/recode-pro/tree/master/Sess%C3%B5es%20de%20HTML5">Estrutura do HTML5 (sem Flexbox)</a></li>
 </ul>
  
 ## Flexbox
