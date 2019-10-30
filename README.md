@@ -34,5 +34,5 @@ Este repositório tem por objetivo armazenar os exercícios do curso de Desenvol
 
  <ul type="square">
 <li><a href="#">Eventos</a></li>
- <li><a href="#">Arrays</a></li>
+ <li><a href="https://github.com/antonialucianapires/recode-pro/blob/master/Javascript/aula-arrays.js">Arrays</a></li>
 </ul>
