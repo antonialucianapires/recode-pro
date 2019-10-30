@@ -1,0 +1,93 @@
+/* Estilo do primeiro exercício sem reset */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+h1 {
+    font-size: 19px;
+    display: inline-block;
+    color: #fff;
+   
+}
+
+#container {
+    width: 870px;
+    margin: 0 auto;
+    background: #333333;
+    padding: 12px;
+}
+
+.cabecalho-item {
+    background: #666666;
+    width: 815px;
+    margin: 0 auto;
+    border-radius: 4px;
+    padding: 16px;
+}
+
+.out-item {
+    background: #666666;
+    width: 160px;
+    border-radius: 4px;
+    padding: 16px;
+    margin: 12px;
+    height: 250px;
+    float: left;
+}
+
+.section-item {
+    display: inline-block;
+    width: 406px;
+    background: #666666;
+    padding: 16px;
+    margin: 12px 0px 12px 0px;
+    border-radius: 4px;
+    height: 250px;
+    float: left;
+}
+
+.section-item h1 {
+    display: inline;
+}
+
+.inside-item {
+    margin-bottom: 12px;
+    background: #999999;
+    border-radius: 4px;
+    padding: 2px;
+    margin-top: 12px;
+    padding: 12px;
+}
+
+.artigo-item {
+    background: #999999;
+    border-radius: 4px;
+    margin-bottom: 12px;
+    padding: 39px;
+}
+
+.footer-item {
+    background: #999999;
+    border-radius: 4px;
+    padding: 12px;
+}
+
+aside {
+    width: 160px;
+    display: inline-block;
+    background: #666666;
+    padding: 16px;
+    border-radius: 4px;
+    margin: 12px;
+    height: 250px;
+}
+
+.rodape-item {
+    background: #666666;
+    border-radius: 4px;
+    width: 815px;
+    padding: 16px;
+    margin: 0 auto;
+
+}
