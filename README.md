@@ -18,5 +18,21 @@ Este repositório tem por objetivo armazenar os exercícios do curso de Desenvol
 </ul>
  
 ## Flexbox
- 
+
+ <ul type="square">
+<li><a href="#">Estrutura do HTML5 (com Flexbox)</a></li>
+ <li><a href="#">Exercício: Flexblog</a></li>
+ <li><a href="#">Desafio: meu primeiro site</a></li>
+</ul>
+
 ## CSS Grid
+ <ul type="square">
+<li><a href="#">Projeto com CSS Grid</a></li>
+</ul>
+
+## Javascript
+
+ <ul type="square">
+<li><a href="#">Eventos</a></li>
+ <li><a href="#">Arrays</a></li>
+</ul>
