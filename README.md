@@ -13,7 +13,7 @@ Este repositório tem por objetivo armazenar os exercícios do curso de Desenvol
 ## Sessões de HTML5 
  
  <ul type="square">
-<li><a href="https://docs.google.com/document/d/e/2PACX-1vRzGKL4hpiIdeFLdqMIGblMF124H9PTLvGAgbVEw7lQSv5DJcnnrH67XR6OvQqEuViWHTj_BIVjvKoE/pub">Revisão</a></li>
+<li><a href="https://blog-geekhunter-com-br.cdn.ampproject.org/c/s/blog.geekhunter.com.br/voce-conhece-html-semantico/amp/">Revisão (Você conhece HTML Semântico? por Yona Nantes)</a></li>
 <li><a href="#">Estrutura do HTML5 (sem Flexbox)</a></li>
 </ul>
  
