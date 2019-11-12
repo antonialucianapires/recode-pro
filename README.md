@@ -21,8 +21,7 @@ Este repositório tem por objetivo armazenar os exercícios do curso de Desenvol
 
  <ul type="square">
 <li><a href="https://github.com/antonialucianapires/recode-pro/blob/master/Sess%C3%B5es%20de%20HTML5/estrutura-com-flebox.html">Estrutura do HTML5 (com Flexbox)</a></li>
- <li><a href="#">Exercício: Flexblog</a></li>
- <li><a href="#">Desafio: meu primeiro site</a></li>
+ <li><a href="https://vizin.netlify.com/">Desafio: meu primeiro site</a></li>
 </ul>
 
 ## CSS Grid
