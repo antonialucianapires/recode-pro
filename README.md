@@ -40,4 +40,9 @@ Este repositório tem por objetivo armazenar os exercícios do curso de Desenvol
  <ul type="square">
 <li><a href="#">Eventos</a></li>
  <li><a href="https://github.com/antonialucianapires/recode-pro/blob/master/Javascript/aula-arrays.js">Arrays</a></li>
+ <li><a href="https://github.com/antonialucianapires/recode-pro/blob/master/Javascript/spread-operator.js">Spreade Operator</a></li>
+ <li><a href="https://github.com/antonialucianapires/recode-pro/blob/master/Javascript/rest-paramns.js">Rest paramns</a></li>
+ <li><a href="https://github.com/antonialucianapires/recode-pro/blob/master/Javascript/arrow-function.js">Arrow function</a></li>
+ <li><a href="https://github.com/antonialucianapires/recode-pro/blob/master/Javascript/destructuring-objects.js">Destructuring objects</a></li>
+ <li><a href="https://github.com/antonialucianapires/recode-pro/blob/master/Javascript/map.js">Map</a></li>
 </ul>
