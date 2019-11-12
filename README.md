@@ -30,6 +30,12 @@ Este repositório tem por objetivo armazenar os exercícios do curso de Desenvol
 <li><a href="#">Projeto com CSS Grid</a></li>
 </ul>
 
+### Projeto Recode News
+<p>Este projeto é realizado pelos monitores da turma Recode Pro RJ e tem por objetivo revisar HTML, CSS e Flexbox.</p>
+ <ul type="square">
+<li><a href="https://github.com/antonialucianapires/recode-pro/tree/master/Revis%C3%B5es/html-css-flexbox/recodeNews">Site Recode News</a></li>
+</ul>
+
 ## Javascript
 
  <ul type="square">
