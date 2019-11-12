@@ -18,5 +18,21 @@ Este repositório tem por objetivo armazenar os exercícios do curso de Desenvol
 </ul>
  
 ## Flexbox
- 
+
+ <ul type="square">
+<li><a href="https://github.com/antonialucianapires/recode-pro/blob/master/Sess%C3%B5es%20de%20HTML5/estrutura-com-flebox.html">Estrutura do HTML5 (com Flexbox)</a></li>
+ <li><a href="#">Exercício: Flexblog</a></li>
+ <li><a href="#">Desafio: meu primeiro site</a></li>
+</ul>
+
 ## CSS Grid
+ <ul type="square">
+<li><a href="#">Projeto com CSS Grid</a></li>
+</ul>
+
+## Javascript
+
+ <ul type="square">
+<li><a href="#">Eventos</a></li>
+ <li><a href="https://github.com/antonialucianapires/recode-pro/blob/master/Javascript/aula-arrays.js">Arrays</a></li>
+</ul>
