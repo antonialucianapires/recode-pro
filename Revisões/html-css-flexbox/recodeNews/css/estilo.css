@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#navegacao-principal {
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0 2px 6px #A9A9A9;
+}
+
+#navegacao-principal img {
+    width: 200px;
+}
+
+#navegacao {
+    display: flex;
+    align-items: center;
+}
+
+#navegacao a {
+    text-decoration: none;
+    margin-right: 50px;
+    color: black;
+}
+
+#container {width: 1086px; margin: 0 auto;}
+
+#resumo {display: flex;}
+
+.conteudo-resumo {padding: 20px;}
+
+.conteudo-resumo h1 {font-size: 47px; padding: 17% 0 15px 0;;}
+
+.conteudo-resumo p {font-size: 24px;}
