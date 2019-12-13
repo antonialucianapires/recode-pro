@@ -4,6 +4,10 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+.clear {
+    clear: both;
+}
+
 #navegacao-principal {
     padding: 30px;
     display: flex;
@@ -28,10 +32,42 @@
 
 #container {width: 1086px; margin: 0 auto;}
 
-#resumo {display: flex;}
+#resumo {
+    display: flex;
+    border-bottom: 1px solid #464646;
+}
 
-.conteudo-resumo {padding: 20px;}
+.conteudo-resumo {
+    padding: 20px;
+}
 
-.conteudo-resumo h1 {font-size: 47px; padding: 17% 0 15px 0;;}
+.conteudo-resumo h1 {
+    font-size: 47px; 
+    padding: 17% 0 15px 0;
+}
 
-.conteudo-resumo p {font-size: 24px;}
+.conteudo-resumo p {
+    font-size: 24px;
+}
+
+.short-new {
+    border-bottom: 1px solid #464646;
+    padding: 6% 0;
+}
+
+.short-new img {
+    display: inline-block;
+    float: left;
+    width: 28%;
+    margin-right: 18px;
+}
+
+.date {
+    display: flex;
+    justify-content: space-between;
+    color: grey;
+}
+
+.short-new h2 {
+    padding-bottom: 1%;
+}
