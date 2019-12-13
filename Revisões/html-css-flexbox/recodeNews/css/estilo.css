@@ -35,6 +35,7 @@
 #resumo {
     display: flex;
     border-bottom: 1px solid #464646;
+    margin-bottom: 40px;
 }
 
 .conteudo-resumo {
@@ -42,12 +43,41 @@
 }
 
 .conteudo-resumo h1 {
-    font-size: 47px; 
+    font-size: 44px; 
     padding: 17% 0 15px 0;
 }
 
 .conteudo-resumo p {
     font-size: 24px;
+}
+
+.borda-cinza {
+    border-bottom: 1px solid #464646;
+}
+
+.news {
+    width: 80%;
+    margin: 0 auto 7% auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.news h1 {
+    text-align: center;
+    font-size: 32px;
+}
+
+.news h1::after {
+    content: '';
+    display: block;
+    width: 20%;
+    height: 3px;
+    background: #5A3795;
+    margin: 0 auto;
+}
+
+.news p {
+    font-size: 12px;
 }
 
 .short-new {
@@ -58,7 +88,7 @@
 .short-new img {
     display: inline-block;
     float: left;
-    width: 28%;
+    width: 30%;
     margin-right: 18px;
 }
 
@@ -70,4 +100,15 @@
 
 .short-new h2 {
     padding-bottom: 1%;
+}
+
+.btn-news {
+    width: 300px;
+    padding: 1%;
+    border: 1px solid #7254A4;
+    background: #7254A4;
+    color: #fff;
+    font-size: 20px;
+    margin: 5% auto;
+    cursor: pointer;
 }
