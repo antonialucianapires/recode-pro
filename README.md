@@ -35,6 +35,12 @@ Este repositório tem por objetivo armazenar os exercícios do curso de Desenvol
 <li><a href="https://github.com/antonialucianapires/recode-pro/tree/master/Revis%C3%B5es/html-css-flexbox/recodeNews">Site Recode News</a></li>
 </ul>
 
+### Projeto Praticando CSS, HTML e JS
+<p>Este projeto foi feito por mim para contribuir com a revisão de HTML, CSS e JS.</p>
+ <ul type="square">
+<li><a href="https://github.com/antonialucianapires/recode-pro/tree/master/Revis%C3%B5es/html-css-flexbox/praticando-CSS">Revisão de CSS</a></li>
+</ul>
+
 ## Javascript
 
  <ul type="square">
