@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/estilo1.css">
+    <script src="js/main.js"></script>
+    <title>Praticando CSS</title>
+</head>
+
+<body>
+    <section id="container">
+        <h1 id="titulo-principal">Praticando CSS</h1>
+        <section class="descricao">
+            <img src="imagens/image-one.png" alt="símbolo ou logotipo do CSS">
+            <p>Cascading Style Sheets é um mecanismo para adicionar estilo a um documento web. O código CSS pode ser
+                aplicado diretamente nas tags ou ficar contido dentro das tags &lt;style&gt;. Também é possível,
+                em vez de colocar a formatação dentro do documento, criar um link para um arquivo CSS que contém os
+                estilos.
+                <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">Clique aqui</a> e leia o
+                resumo.</p>
+        </section>
+    <section class="code-description">
+        <img src="imagens/code.png" alt="exemplo de código CSS">
+        <p>Uma instrução CSS consiste em um seletor e um bloco de declaração. Cada declaração contém uma propriedade e
+            um valor, separados por dois pontos (:). Cada declaração é separada por ponto e vírgula (;)</p>
+        <p>Em CSS, seletores são usados para declarar a quais elementos de marcação um estilo se aplica, uma espécie de
+            expressão correspondente. Os seletores podem ser aplicados a todos os elementos de um tipo específico, ou
+            apenas aqueles elementos que correspondam a um determinado atributo; elementos podem ser combinados,
+            dependendo de como eles são colocados em relação uns aos outros no código de marcação, ou como eles estão
+            aninhados dentro do objeto de documento modelo. </p>
+        <button onclick="abrirPopup();" class="ler-mais">Ler mais...</button>
+        <!-- popup-->
+        <div id="popup" class="popup">
+            <h1>
+            Parabéns! Continue evoluindo.
+            </h1>
+            <button id="btnSair" onclick="fecharPopup();">Sair</button>
+        </div>
+        <!-- end popup-->        
+    </section>
+</section>
+</body>
+</html>
