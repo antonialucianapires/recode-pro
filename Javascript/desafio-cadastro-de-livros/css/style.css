@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Monda', sans-serif;
+}
+
+body {
+    background-color: wheat;
+}
+
+.container {
+    background-color: #fff;
+    width: 60%;
+    margin: 5% auto;
+    border-radius: 5px;
+}
+
+#cabecalho {
+    height: 30px;
+    padding: 5%;
+    background-color: teal;
+    border-radius: 5px 5px 0 0;
+    text-align: center;
+    color: #fff;
+}
+
+#formulario-cadastro {
+    width: 80%;
+    margin: 0 auto;
+    padding: 10%;
+    display: flex;
+    flex-direction: column;
+}
+
+#formulario-cadastro input {
+    width: 100%;
+    margin: 5px auto;
+}
+
+.btnCadastro {
+    width: 100%;
+    border: 1px solid #FE9A2E;
+    background: #FE9A2E;
+    padding: 4px;
+    color: #fff;
+    cursor: pointer;
+    margin: 30px auto 0 auto;
+}
