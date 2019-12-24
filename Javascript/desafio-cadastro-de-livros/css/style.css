@@ -24,7 +24,7 @@ body {
     color: #fff;
 }
 
-#formulario-cadastro {
+#myForm {
     width: 80%;
     margin: 0 auto;
     padding: 10%;
@@ -32,7 +32,7 @@ body {
     flex-direction: column;
 }
 
-#formulario-cadastro input {
+#myForm input {
     width: 100%;
     margin: 5px auto;
 }
