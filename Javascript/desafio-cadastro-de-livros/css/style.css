@@ -46,3 +46,29 @@ body {
     cursor: pointer;
     margin: 30px auto 0 auto;
 }
+
+#resultado {
+    padding: 5%;
+    background: antiquewhite;
+    margin: 7% auto;
+    text-align: center;
+    display: none;
+}
+
+@media (max-width:600px) {
+
+    body {
+        background-color: #fff ;
+    }
+    .container {
+        width: 100% !important;
+        margin: 0;
+        border-radius: 0;
+    }
+
+    #cabecalho {
+        height: auto;
+        border-radius: 0;
+
+    }
+}

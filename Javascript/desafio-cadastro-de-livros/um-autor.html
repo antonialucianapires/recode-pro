@@ -12,7 +12,8 @@
     <script src="js/main.js"></script>
     <section class="container">
         <header id="cabecalho">
-            <h1>Cadastro de Livros</h1>
+            <h1>Referência ABNT - On-line</h1>
+            <p>O formatador suporta livros com apenas 1 autor.</p>
         </header>
         <form id="myForm" action="">
             <p>
@@ -22,7 +23,7 @@
             </p>
             <p>
                 <label>Sobrenome do autor: </label>
-                <input type="text" id="sobrenome" name="sobrenome" placeholder="Nome do autor"/>
+                <input type="text" id="sobrenome" name="sobrenome" placeholder="Sobrenome do autor"/>
                 
             </p>
             <p>
@@ -45,9 +46,9 @@
                 <label>Ano de publicação: </label>
                 <input type="text" id="ano" name="ano" placeholder="Digite o ano de publicação" />
             </p>
-            <button class="btnCadastro"  onclick="exibirReferencia();">Cadastrar</button>
+            <button class="btnCadastro"  type="button" onclick="exibirReferencia();">Formatar</button>
 
-            <p id="resultado" name="resultado" ></p>
+            <p id="resultado"></p>
         </form>
       
       
