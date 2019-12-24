@@ -52,3 +52,9 @@ Este repositório tem por objetivo armazenar os exercícios do curso de Desenvol
  <li><a href="https://github.com/antonialucianapires/recode-pro/blob/master/Javascript/destructuring-objects.js">Destructuring objects</a></li>
  <li><a href="https://github.com/antonialucianapires/recode-pro/blob/master/Javascript/map.js">Map</a></li>
 </ul>
+
+### Revisão JS
+<p>Alguns desafios da revisão</p>
+<ul type="square">
+ <li><a href="#">Calculadora JS Puro</a></li>
+<li><href="https://github.com/antonialucianapires/recode-pro/tree/master/Javascript/desafio-cadastro-de-livros">Formatador de Referência ABNT</a></li>
