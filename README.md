@@ -57,4 +57,4 @@ Este repositório tem por objetivo armazenar os exercícios do curso de Desenvol
 <p>Alguns desafios da revisão</p>
 <ul type="square">
  <li><a href="#">Calculadora JS Puro</a></li>
-<li><href="https://github.com/antonialucianapires/recode-pro/tree/master/Javascript/desafio-cadastro-de-livros">Formatador de Referências ABNT</a></li>
+<li><a href="https://github.com/antonialucianapires/recode-pro/tree/master/Javascript/desafio-cadastro-de-livros">Formatador de Referências ABNT</a></li>
